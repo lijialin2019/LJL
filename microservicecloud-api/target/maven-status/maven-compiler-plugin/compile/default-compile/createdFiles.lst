@@ -1,0 +1,4 @@
+com\hr\entity\Dept.class
+com\hr\service\DeptClientServiceFallbackFactory.class
+com\hr\service\DeptClientService.class
+com\hr\service\DeptClientServiceFallbackFactory$1.class

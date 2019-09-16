@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.hr.util.DruidConfiguration",
+      "name": "spring.datasource",
+      "type": "com.hr.util.DruidConfiguration"
+    }
+  ],
+  "properties": []
+}
