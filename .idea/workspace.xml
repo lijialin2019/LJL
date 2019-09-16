@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cd58d49-3f63-4578-adb4-6ca75eb0b96a" name="Default Changelist" comment="微服务">
-      <change afterPath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hr/hh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hr/hh.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test2.txt" beforeDir="false" />
     </list>
@@ -45,17 +44,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hr/hh.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -444,7 +433,7 @@
       <workItem from="1567823690076" duration="604000" />
       <workItem from="1567908082111" duration="27468000" />
       <workItem from="1568197971018" duration="8399000" />
-      <workItem from="1568371419552" duration="13580000" />
+      <workItem from="1568371419552" duration="13831000" />
     </task>
     <task id="LOCAL-00001" summary="微服务">
       <created>1568625548738</created>
@@ -481,11 +470,32 @@
       <option name="project" value="LOCAL" />
       <updated>1568631480487</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="微服务">
+      <created>1568631623982</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568631623982</updated>
+    </task>
+    <task id="LOCAL-00007" summary="微服务">
+      <created>1568631718798</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568631718798</updated>
+    </task>
+    <task id="LOCAL-00008" summary="微服务">
+      <created>1568631813081</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568631813081</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67777000" />
+    <option name="totallyTimeSpent" value="68028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -894,7 +904,11 @@
     <entry file="file://$PROJECT_DIR$/microservicecloud-api/src/main/java/com/hr/hh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
